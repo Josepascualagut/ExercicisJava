@@ -25,16 +25,12 @@ public class Main {
 
         // Com ho feiem fins ara
         String nombreAlumno1 = "Maria";
-
         float notaAlumno1 = 7f;
-
         boolean pasaAlumno1 = true;
 
         String nombreAlumno2 = "Josep";
-
         float notaAlumno2 = 0f;
-
-        boolean passaalumno2 = false;
+        boolean pasaAlumno2 = false;
 
 
 
