@@ -1,3 +1,5 @@
+package alumno;
+
 public class Main {
     public static void main(String[] args) {
         // com ho farem a partir de ara

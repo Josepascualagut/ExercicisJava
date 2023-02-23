@@ -14,7 +14,6 @@ public class Main {
         System.out.println("Numero 2: ");
         float numero2 = scanner.nextInt();
 
-
         Calc calc = new Calc();
         if (signo.equals("+")) {
             float sumar = calc.sumar(numero1, numero2);
