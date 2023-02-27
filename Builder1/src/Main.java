@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class Coche {
     String marca;
     String modelo;
@@ -23,7 +21,7 @@ class Coche {
         Builder setLogo(String logo) {
             this.logo = logo;
             return this;
-        }  Scanner scanner = new Scanner(System.in);
+        }
 
         Coche build() {
             Coche coche = new Coche();
@@ -38,9 +36,6 @@ class Coche {
 
 public class Main {
     public static void main(String[] args) {
-
-
-
 
         Coche c1 = new Coche.Builder()
                 .setMarca("BMW")
